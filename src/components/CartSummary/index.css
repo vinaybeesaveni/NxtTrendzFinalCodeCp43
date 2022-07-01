@@ -1,0 +1,28 @@
+.summary-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.order-heading {
+  color: #616e7c;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.order-price {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.items-in-cart {
+  font-size: 14px;
+  margin-top: 0;
+  color: #616e7c;
+}
+.checkout-button {
+  color: white;
+  background-color: #0b69ff;
+  border: none;
+  width: 100%;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 12px;
+}
